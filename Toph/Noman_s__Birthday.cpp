@@ -2,8 +2,7 @@
 using namespace std;
 using ll = long long int;
 ll n;
-bool bon(string s,ll x)
-{
+bool bon(string s,ll x){
 	for(ll i = 0;i<x-1;i++){
 		if(s[i]==s[i+1]){
 			return 0;
@@ -11,8 +10,7 @@ bool bon(string s,ll x)
 	}
 	return 1;
 }
-int main()
-{
+int main(){
 	cin>>n;
 	string moza;
 	cin>>moza;
