@@ -7,7 +7,7 @@
 using namespace std;
 using ll = long long int;
 int main(){
-   
+   //starts here
     ll n,m;cin>>n>>m;
     if(n>m){
         swap(n,m);
