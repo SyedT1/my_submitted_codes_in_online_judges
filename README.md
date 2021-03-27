@@ -18,13 +18,17 @@
 
 ## Hackerearth  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/hackerearth-for-developers.jpg)  
-### Hackerrank  
+## Hackerrank  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/HackerRank_Icon-1000px.jpg)  
 
-### Eolymph
-### Spoj
-### UVA  
+## Eolymph  
+![alt txt](https://github.com/SyedT1/OJ/blob/master/img/eolymp.jpg)  
+
+## Spoj  
+![alt txt](https://github.com/SyedT1/OJ/blob/master/img/spoj.jpg)  
+
+## UVA  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/logo-uvaoj.jpg)  
 
-### URI  
+## URI  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/download.jpg)  
