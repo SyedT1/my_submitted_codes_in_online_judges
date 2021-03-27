@@ -12,7 +12,9 @@
 ### Codechef  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/1200px-Codechef(new)_logo.svg.jpg)  
 
-### Hackerearth
+### Hackerearth  
+![alt txt](https://github.com/SyedT1/OJ/blob/master/img/hackerearth-for-developers.jpg)  
+
 ### Hackerrank
 ### Eolymph
 ### Spoj
