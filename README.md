@@ -9,7 +9,9 @@
 ### Codeforces  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/codeforces-telegram-square.jpg)  
 
-### Codechef
+### Codechef  
+![alt txt](https://github.com/SyedT1/OJ/blob/master/img/1200px-Codechef(new)_logo.svg.jpg)  
+
 ### Hackerearth
 ### Hackerrank
 ### Eolymph
