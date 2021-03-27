@@ -1,4 +1,3 @@
-# OJ
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/main-qimg-f1e898c205399f7cbd93a93da388231c.jpg)  
 
 ## Atcoder  
