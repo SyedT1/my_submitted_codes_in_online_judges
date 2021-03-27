@@ -7,7 +7,7 @@
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/logo.jpg) 
 
 ## Codewars  
-![alt txt](https://www.codewars.com/users/TillDawn/badges/large)  
+![alt txt](https://www.codewars.com/users/Syed Tahsin/badges/large)  
 
 ## Codeforces  
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/codeforces-telegram-square.jpg)  
