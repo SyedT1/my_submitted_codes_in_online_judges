@@ -59,10 +59,10 @@ http://codeforces.com/contest/35/problem/C (3) //No obstacles [multiple starts]
 ## Bellman-Ford
 http://www.spoj.com/problems/ARBITRAG/ (4) //Or Floyd-Warshall
 
-Blossom
+## Blossom
 11439 (UVA)
 
-Bridges
+## Bridges
 http://codeforces.com/contest/732/problem/F 7
 
 http://codeforces.com/contest/700/problem/C 7
@@ -73,7 +73,7 @@ http://www.spoj.com/problems/SUBMERGE/ (3) //Direct articulation
 
 http://www.spoj.com/problems/GRAFFDEF/ (5) //Bridge tree
 
-Centroid/Tree center
+## Centroid/Tree center
 http://codeforces.com/contest/715/problem/C 9
 
 http://codeforces.com/contest/741/problem/D 8
@@ -389,7 +389,7 @@ http://www.spoj.com/problems/ADACITY/
 
 http://www.spoj.com/problems/ADAPATH/
 
-MCMF
+## MCMF
 http://www.spoj.com/problems/ADAGROW/
 
 http://codeforces.com/gym/100800 (Aqueduct Construction — A)
@@ -412,19 +412,19 @@ http://codeforces.com/problemset/problem/802/C
 
 http://codeforces.com/contest/863/problem/F (5) //VERY NICE
 
-MO-Tree
+## MO-Tree
 http://www.spoj.com/problems/COT/ (7) //ON TREE [but very tight TLE]
 
 http://www.spoj.com/problems/GOT/ (5) //ON TREE
 
-SCC
+## SCC
 http://www.spoj.com/problems/TFRIENDS/ (4) //just scc size
 
 http://www.spoj.com/problems/CAPCITY/ (4) //scc destination [WEAK TC]
 
 http://codeforces.com/contest/22/problem/E (5) //[NICE][make it strongly connected][SRC>DST]
 
-Spanning Tree
+## Spanning Tree
 BLINNET SPOJ (3)
 
 11183 UVA (4) //Directed [need to know algo!]
@@ -435,10 +435,10 @@ http://www.spoj.com/problems/IITKWPCG/ (4) //VERY NICE [log instead of price]
 
 http://codeforces.com/contest/17/problem/B (3) //Spanning tree [no dsu]
 
-SPFA_THE_BEST_ALGORITHM
+## SPFA_THE_BEST_ALGORITHM
 11478 UVA (5)
 
-Toposort
+## Toposort
 http://codeforces.com/contest/765/problem/E 5
 
 http://codeforces.com/contest/770/problem/C 4 //reduce + toposort
@@ -447,7 +447,7 @@ http://codeforces.com/contest/825/problem/E 4 //Toposort from biggest/backward
 
 http://www.spoj.com/problems/CODESPTI/ (6) //VERY NICE — Hard/Weak children
 
-Tree
+## Tree
 http://codeforces.com/contest/746/problem/G 5
 
 http://codeforces.com/contest/750/problem/F 9
@@ -472,7 +472,7 @@ http://www.spoj.com/problems/GCPC11J/ (3) //Finding ceter
 
 http://codeforces.com/contest/34/problem/D (3) //Simple reconstruction + DFS
 
-Tree-DP
+## Tree-DP
 13089 — Golden Coins (UVA)
 
 http://codeforces.com/problemset/problem/855/C
@@ -533,7 +533,7 @@ http://www.spoj.com/problems/TWOPATHS/ (6) //VERY NICE Same as above ~ bigger co
 
 http://codeforces.com/contest/868/problem/E (8) //VERY NICE — HARD — on tree
 
-TSP
+## TSP
 10937 UVA (4) //find '!' / BFS / TSP — NICE!
 
 10944 UVA (4)
@@ -542,12 +542,12 @@ TSP
 
 http://www.spoj.com/problems/A_W_S_N/ (4) //BFS + TSP (path) — NICE
 
-2SAT
+## 2SAT
 11930 UVA (4)
 
 http://codeforces.com/contest/776/problem/D (5)
 
-LCA
+## LCA
 http://codeforces.com/contest/733/problem/F 7
 
 11354 UVA (4)
