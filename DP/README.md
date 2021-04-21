@@ -1,8 +1,7 @@
 ## [DP Problems List Source](https://codeforces.com/blog/entry/55219)
-http://www.spoj.com/problems/ADAZOO/
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+```diff
+- http://www.spoj.com/problems/ADAZOO/
+```
 http://www.spoj.com/problems/ADASEQEN/
 
 http://www.spoj.com/problems/ADAMOLD/
