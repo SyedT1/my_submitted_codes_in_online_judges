@@ -1,7 +1,5 @@
 ## [DP Problems List Source](https://codeforces.com/blog/entry/55219)
-```diff
-- http://www.spoj.com/problems/ADAZOO/
-```
+http://www.spoj.com/problems/ADAZOO/
 http://www.spoj.com/problems/ADASEQEN/
 
 http://www.spoj.com/problems/ADAMOLD/
