@@ -8,15 +8,15 @@
 ## [Toph](https://toph.co/)
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/logo.jpg) 
 
-## Codewars  
+## [Codewars](https://www.codewars.com/) 
 ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
   
   
 
-## Codeforces  
+## [Codeforces](https://www.codeforces.com/)
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/codeforces-telegram-square.jpg)  
 
-## Codechef  
+## [Codechef](https://www.codechef.com/)
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/1200px-Codechef(new)_logo.svg.jpg)  
 
 ## Hackerearth  
