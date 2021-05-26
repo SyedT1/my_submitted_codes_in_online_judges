@@ -12,3 +12,6 @@
 + [Leetcode](https://leetcode.com/tag/dynamic-programming/)
 + [Hackerrank Problemset](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming)
 + [Hackerearth Problemset](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
++ [LightOj](https://lightoj.com/problems/category/dp?page=1)
++ [GFG](https://www.geeksforgeeks.org/dynamic-programming/)
++ [USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
