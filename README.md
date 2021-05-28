@@ -1,7 +1,4 @@
 # Online Judge
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/CheerySeparateGoldeneye-size_restricted.gif) 
-
-## Platforms
 1. [Atcoder](https://atcoder.jp/)
 2. [Toph](https://toph.co/) 
 3. [Codeforces](https://www.codeforces.com/)  
