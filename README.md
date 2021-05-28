@@ -10,5 +10,5 @@
 9. [UVA](https://onlinejudge.org/)  
 10. [URI](https://www.urionlinejudge.com.br/judge/en/login)
 
-## [Codewars](https://www.codewars.com/) 
+### [Codewars](https://www.codewars.com/) 
 ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
