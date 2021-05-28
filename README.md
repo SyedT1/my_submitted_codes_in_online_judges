@@ -1,37 +1,11 @@
+# Online Judge
 ![alt txt](https://github.com/SyedT1/OJ/blob/master/img/CheerySeparateGoldeneye-size_restricted.gif) 
 
+## [Atcoder](https://atcoder.jp/) ## [Toph](https://toph.co/)  ## [Codeforces](https://www.codeforces.com/)  ## [Codechef](https://www.codechef.com/)
 
-
-
-## [Atcoder](https://atcoder.jp/) 
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/atcoder.jpg)
-## [Toph](https://toph.co/)
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/logo.jpg) 
+## [Hackerearth](https://www.hackerearth.com/challenges/)  ## [Hackerrank](https://www.hackerrank.com/)  
+  
+## [Eolymph](https://www.e-olymp.com/en/)  ## [Spoj](https://www.spoj.com/)  ## [UVA](https://onlinejudge.org/)  ## [URI](https://www.urionlinejudge.com.br/judge/en/login)
 
 ## [Codewars](https://www.codewars.com/) 
 ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
-  
-  
-
-## [Codeforces](https://www.codeforces.com/)
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/codeforces-telegram-square.jpg)  
-
-## [Codechef](https://www.codechef.com/)
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/1200px-Codechef(new)_logo.svg.jpg)  
-
-## Hackerearth  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/hackerearth-for-developers.jpg)  
-## Hackerrank  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/HackerRank_Icon-1000px.jpg)  
-
-## Eolymph  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/eolymp.jpg)  
-
-## Spoj  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/spoj.jpg)  
-
-## UVA  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/logo-uvaoj.jpg)  
-
-## URI  
-![alt txt](https://github.com/SyedT1/OJ/blob/master/img/download.jpg)  
