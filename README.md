@@ -21,9 +21,7 @@
 + **[Spoj](https://www.spoj.com/)**  
 + **[UVA](https://onlinejudge.org/)**  
 + **[URI](https://www.urionlinejudge.com.br/judge/en/login)**
-
-### [Codewars](https://www.codewars.com/) 
-![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
++ ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
 
 
 ## Blogs and Resources
