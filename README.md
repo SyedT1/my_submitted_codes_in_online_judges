@@ -24,3 +24,8 @@
 
 ### [Codewars](https://www.codewars.com/) 
 ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
+
+
+## Blogs and Resources
++ [All Topics Compiled Blog - CF](https://codeforces.com/blog/entry/91363)
++ [Awesome Resources](https://codeforces.com/blog/entry/23054)
