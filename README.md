@@ -6,11 +6,11 @@
 + [AlgorithmsThread](https://www.youtube.com/watch?v=cVBzMXYc4ss&list=PLZU0kmvryb_HZpDW2yfn-H-RxAu_ts6xq&ab_channel=SecondThreadSecondThread)
 + [William Fiset](https://www.youtube.com/c/WilliamFiset-videos/playlists)
 + [BACS](https://www.youtube.com/c/BangladeshAdvancedComputingSocietyBACS/playlists) and [GITHUB RESOURCE](https://baps-bgd.github.io/camp/)
-+ **[Codeforces EDU]**(https://codeforces.com/edu/courses)
++ **[Codeforces EDU](https://codeforces.com/edu/courses)**
 + **[Competitive Programmers Core Skills - Coursera](https://www.coursera.org/learn/competitive-programming-core-skills)**
 + **[Introduction to Algorithms and DS in C++ - Udemy](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)**
 + **[Saad Mustafa Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=123190759)**
-
+**Bold** Marked are the Courses.
 
 ### Online Judge
 + **[Atcoder](https://atcoder.jp/)**
