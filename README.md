@@ -28,3 +28,7 @@
 ## Blogs and Resources
 + [All Topics Compiled Blog - CF](https://codeforces.com/blog/entry/91363)
 + [Awesome Resources](https://codeforces.com/blog/entry/23054)
+
+## Good Apps/Websites for virtual contests/mashup
++ [Nice Webapp](https://contestmania.web.app/)
++ [Vjudge](https://vjudge.net/)
