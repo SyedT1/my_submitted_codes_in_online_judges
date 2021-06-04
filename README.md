@@ -1,5 +1,5 @@
 # Resources
-## Youtube Playlists and Courses(**Bold** Marked are the Courses.)
+ Youtube Playlists and Courses(**Bold** Marked are the Courses.)
 + [Algorithms Live](https://www.youtube.com/c/AlgorithmsLive/videos)
 + [Errichto Playlist](https://www.youtube.com/c/Errichto/playlists)
 + [Pashka Algorithms and Data structures](https://www.youtube.com/watch?v=oWgLjhM-6XE&list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&ab_channel=PavelMavrinPavelMavrin)
