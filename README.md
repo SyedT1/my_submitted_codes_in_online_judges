@@ -8,7 +8,7 @@
 + [BACS](https://www.youtube.com/c/BangladeshAdvancedComputingSocietyBACS/playlists) and [GITHUB RESOURCE](https://baps-bgd.github.io/camp/)
 + [Codeforces EDU](https://codeforces.com/edu/courses)
 + [Competitive Programmers Core Skills-Coursera](https://www.coursera.org/learn/competitive-programming-core-skills)
-+ [Introduction to Algorithms and DS in C++](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
++ [Introduction to Algorithms and DS in C++ - Udemy](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)
 
 
 ### Online Judge
