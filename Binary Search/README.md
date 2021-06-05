@@ -12,6 +12,7 @@
 + [Multiplication Table (D)](https://codeforces.com/contest/448/problem/D)
 + [Preparing for the contest](https://codeforces.com/contest/378/problem/D)
 + [LeetCode Binary Search-ProblemSet](https://leetcode.com/tag/binary-search/)
++ [SPOJ Problemset](https://www.spoj.com/problems/tag/binary-search)
 
 ## Parallel Binary Search
 + [Codeforces Tutorial](https://codeforces.com/blog/entry/45578)
