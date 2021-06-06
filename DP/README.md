@@ -15,3 +15,7 @@
 + [LightOj](https://lightoj.com/problems/category/dp?page=1)
 + [GFG](https://www.geeksforgeeks.org/dynamic-programming/)
 + [USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
+
+## Youtube Playlist and Videos
++ [CoderByte](https://www.youtube.com/watch?v=oBt53YbR9Kk)
++ [William Fiset](https://www.youtube.com/watch?v=gQszF5qdZ-0&list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u)
