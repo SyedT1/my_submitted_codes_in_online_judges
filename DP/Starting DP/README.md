@@ -3,7 +3,7 @@
 using longint = long long int;
 longint dp[MX];
 int main(){
-  dp[0] = dp[1] = 1
-  //remember fibonacci?
+   dp[N] = dp[N-1]+dp[N-2];
+   //remember fibonacci?
 }
 ```
