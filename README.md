@@ -23,8 +23,7 @@
 + **[Eolymph](https://www.e-olymp.com/en/)**
 + **[Spoj](https://www.spoj.com/)**  
 + **[UVA](https://onlinejudge.org/)**  
-+ **[URI](https://www.urionlinejudge.com.br/judge/en/login)**
-+ ![alt txt](https://www.codewars.com/users/Syed%20Tahsin/badges/large)    
++ **[URI](https://www.urionlinejudge.com.br/judge/en/login)**   
 
 
 ## Blogs and Resources
