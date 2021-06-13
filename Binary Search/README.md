@@ -1,5 +1,5 @@
-# Resources 
-## Binary Search
+# [What is Binary Search Algorithm?](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+## Resources
 + [Binary Search Tutorial - TopCoder](https://www.topcoder.com/thrive/articles/Binary%20Search)
 + [Binary Search - Google drive PDF](https://drive.google.com/file/d/0B1yhFrxtsDsyLTdDUTZMSUV6RzA/view)
 + [Codeforces Blog- Easy Sorting/Binary Search Problems](https://codeforces.com/blog/entry/75768)
