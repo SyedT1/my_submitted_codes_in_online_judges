@@ -33,6 +33,6 @@
 ## Topic based Blogs
 + [Counting Inversions](https://codeforces.com/blog/entry/92130)
 + [Dictionary of Basic Factors - String Matching](https://codeforces.com/blog/entry/92092)
-## Good Apps/Websites for virtual contests/mashup
+## Good Apps/Websites for virtual contests
 + [Nice Webapp](https://contestmania.web.app/)
-+ [Vjudge](https://vjudge.net/)
++ [VJudge](https://vjudge.net/)
