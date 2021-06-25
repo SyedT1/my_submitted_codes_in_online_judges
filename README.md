@@ -30,6 +30,9 @@
 + [All Topics Compiled Blog - CF](https://codeforces.com/blog/entry/91363)
 + [Awesome Resources](https://codeforces.com/blog/entry/23054)
 
-## Good Apps/Websites for virtual contests/mashup
+## Topic based Blogs
++ [Counting Inversions](https://codeforces.com/blog/entry/92130)
++ [Dictionary of Basic Factors - String Matching](
+## Good Apps/Websites for virtual contests/mashuphttps://codeforces.com/blog/entry/92092)
 + [Nice Webapp](https://contestmania.web.app/)
 + [Vjudge](https://vjudge.net/)
