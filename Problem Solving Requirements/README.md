@@ -30,9 +30,9 @@ The list just confirms that beginners should focus on general problem-solving te
 
 The first step in most of the competitive programming problems is usually these heuristics rather than the algorithms themselves, which usually reveal themselves after you have progressed using these heuristics above.
 
-ecnerwala also mentioned that in a very difficult problem, there are more than 4 or 5 crucial pieces of information given. The ability to choose what information should be generalized and abstracted out, and which information should not, is important for speed, and it comes only with practice.
+[**ecnerwala**](https://codeforces.com/profile/ecnerwala) also mentioned that in a very difficult problem, there are more than 4 or 5 crucial pieces of information given. The ability to choose what information should be generalized and abstracted out, and which information should not, is important for speed, and it comes only with practice.
 
-Another learning from tourist streams was, he never gets stuck in one approach, and he quickly tries all these approaches in a very short amount of time. I have found it very difficult to even let go of one thought process, once I have gone deep enough. The brain tricks you over and over again not to start from scratch, and you keep retrying that old approach.
+Another learning from [**tourist**](https://codeforces.com/profile/tourist) streams was, he never gets stuck in one approach, and he quickly tries all these approaches in a very short amount of time. I have found it very difficult to even let go of one thought process, once I have gone deep enough. The brain tricks you over and over again not to start from scratch, and you keep retrying that old approach.
 
 Also, if you don't generalize and map those problems to these types of heuristics, every problem will look ad-hoc, and you would not be able to reduce one problem to another.
 
