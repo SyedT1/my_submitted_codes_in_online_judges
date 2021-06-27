@@ -24,7 +24,8 @@ The list just confirms that beginners should focus on general problem-solving te
 + **Symmetry**
 + Wishful thinking (What is about the problem that makes it hard?)
 + Penultimate step(What will yield the solution in a single step)
-+ **Polya's mouse(quickly trying all these techniques above really fast, not getting stuck on one approach)**  
++ **Polya's mouse(quickly trying all these techniques above really fast, not getting stuck on one approach)**   
+
 **BOLD** marked are mathematical topics  
 
 The first step in most of the competitive programming problems is usually these heuristics rather than the algorithms themselves, which usually reveal themselves after you have progressed using these heuristics above.
