@@ -3,28 +3,28 @@ The username [FullofDoubts](https://codeforces.com/profile/FullOfDoubts) says-
 The list just confirms that beginners should focus on general problem-solving techniques rather than these complex (or even intermediate topics).
 
 ### Problem-solving heuristics that are actually very important, (From Arthur Engel's Problem-Solving Strategies plus additional resources),
-+ Invariants
-+ Monovariants (increasing/decreasing)
-+ Coloring(cycles/modulo)
-+ Extremal principle
-+ Pigeonhole principle
-+ Enumerative Combinatorics, graph theory
-+ Number theory
-+ Inequalities
-+ Induction
-+ Sequences, Polynomials, Games
-+ Algebra
-+ Problem reduction, Identifying subproblems
++ **Invariants**
++ **Monovariants (increasing/decreasing)**
++ **Coloring(cycles/modulo)**
++ **Extremal principle**
++ **Pigeonhole principle**
++ **Enumerative Combinatorics, graph theory**
++ **Number theory**
++ **Inequalities**
++ **Induction**
++ **Sequences, Polynomials, Games**
++ **Algebra**
++ **Problem reduction, Identifying subproblems**
 + Pattern Observation, trying some examples(Getting your hands dirty)
 + Working Backwards
 + Exchange Arguments
 + Draw a picture
 + Convenient Notation
 + Guessing
-+ Symmetry
++ **Symmetry**
 + Wishful thinking (What is about the problem that makes it hard?)
 + Penultimate step(What will yield the solution in a single step)
-+ Polya's mouse(quickly trying all these techniques above really fast, not getting stuck on one approach)
++ **Polya's mouse(quickly trying all these techniques above really fast, not getting stuck on one approach)**
 The first step in most of the competitive programming problems is usually these heuristics rather than the algorithms themselves, which usually reveal themselves after you have progressed using these heuristics above.
 
 ecnerwala also mentioned that in a very difficult problem, there are more than 4 or 5 crucial pieces of information given. The ability to choose what information should be generalized and abstracted out, and which information should not, is important for speed, and it comes only with practice.
