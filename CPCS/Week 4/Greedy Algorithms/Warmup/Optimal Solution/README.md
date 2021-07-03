@@ -17,5 +17,5 @@ The minimum number of coins with denominators 1,5 and 10 that changes m
 **For example:**  
 **Input:-**  
    28  
-**Output:-** 
+**Output:-**  
    6
