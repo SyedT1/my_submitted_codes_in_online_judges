@@ -1,5 +1,5 @@
 #### (Problem 1)
-Construct the largest possible number from a given number of inputs(digits [0,9])  
+Statement:Construct the largest possible number from a given number of inputs(digits [0,9])  
 **For example:**   
  **(Input)**
      5  
@@ -10,7 +10,7 @@ Construct the largest possible number from a given number of inputs(digits [0,9]
 
 
 #### (Problem 2)
-Money change  
+Statement:Money change  
 **(Input)**  
        Non-negative integer **m**  
 **(Output)**  
