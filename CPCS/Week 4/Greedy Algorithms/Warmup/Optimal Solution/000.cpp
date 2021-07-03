@@ -18,3 +18,4 @@ int main()
             num += char('0' + i);
     cout << num << endl;
 }
+
