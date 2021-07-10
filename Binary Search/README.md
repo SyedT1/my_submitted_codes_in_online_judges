@@ -12,6 +12,7 @@
 + [LeetCode Binary Search-ProblemSet](https://leetcode.com/tag/binary-search/)
 + [SPOJ Problemset](https://www.spoj.com/problems/tag/binary-search)
 + [Toph Problemset](https://toph.co/problems/binary-search)
++ [A2oj Problemset - 350 Problems](https://earthshakira.github.io/a2oj-clientside/server/Category40.html)
 
 ## Individual Problems
 + [Multiplication Table (D)](https://codeforces.com/contest/448/problem/D)
