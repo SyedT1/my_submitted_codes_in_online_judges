@@ -37,3 +37,10 @@
 ## Good Apps/Websites for virtual contests
 + [Nice Webapp](https://contestmania.web.app/)
 + [VJudge](https://vjudge.net/)
+
+
+## Popular users(except Cpp)
++ **Rust**
+  + [Kobae964](https://codeforces.com/submissions/kobae964)
++ **Haskell**
+  + [Watashi](https://codeforces.com/submissions/watashi)
