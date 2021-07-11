@@ -44,3 +44,5 @@
   + [Kobae964](https://codeforces.com/submissions/kobae964)
 + **Haskell**
   + [Watashi](https://codeforces.com/submissions/watashi)
++ **OCaml**
+  + [Darooha](https://codeforces.com/profile/Darooha)
