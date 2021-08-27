@@ -1,4 +1,4 @@
-## Breaking Necklace
+## [Breaking Necklace](https://train.usaco.org/usacoprob2?a=MRLCq0PltvH&S=beads)
 ```cpp
 /*
 ID: syedmuh1
