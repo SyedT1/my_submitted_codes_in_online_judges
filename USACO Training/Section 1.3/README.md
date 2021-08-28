@@ -79,7 +79,7 @@ int main()
       right = i.second;
       continue;
     }
-    else if (i.first > right && i.first > alt_max)
+    else if (i.first > alt_max)
       max_left = max(max_left, i.first - alt_max);
     right = i.second;
     alt_max = max(alt_max, i.second);
