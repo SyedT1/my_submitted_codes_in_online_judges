@@ -1,1 +1,1 @@
-#[**USACO GUIDE**](https://usaco.guide/)
+# [**USACO GUIDE**](https://usaco.guide/)
