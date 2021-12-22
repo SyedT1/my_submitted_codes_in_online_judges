@@ -26,7 +26,7 @@
 + **[Spoj](https://www.spoj.com/)**  
 + **[UVA](https://onlinejudge.org/)**  
 + **[URI](https://www.urionlinejudge.com.br/judge/en/login)**   
-+ **[Lightoj](https://lightoj.com/)
++ **[Lightoj](https://lightoj.com/)**
 
 
 ## Blogs and Resources
