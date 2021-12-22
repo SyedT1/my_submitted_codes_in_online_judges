@@ -18,6 +18,7 @@
 + **[Atcoder](https://atcoder.jp/)**
 + **[Toph](https://toph.co/)** 
 + **[Codeforces](https://www.codeforces.com/)**  
++ **[Open Kattis](https://open.kattis.com/)
 + **[Codechef](https://www.codechef.com/)**
 + **[Hackerearth](https://www.hackerearth.com/challenges/)**  
 + **[Hackerrank](https://www.hackerrank.com/)**  
