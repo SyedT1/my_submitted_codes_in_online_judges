@@ -26,6 +26,7 @@
 + **[Spoj](https://www.spoj.com/)**  
 + **[UVA](https://onlinejudge.org/)**  
 + **[URI](https://www.urionlinejudge.com.br/judge/en/login)**   
++ **[Lightoj](https://lightoj.com/)
 
 
 ## Blogs and Resources
@@ -38,6 +39,10 @@
 ## Good Apps/Websites for virtual contests
 + [Nice Webapp](https://contestmania.web.app/)
 + [VJudge](https://vjudge.net/)
+
+## Visualizers
++ [**Sorting.at**](https://sorting.at/)
++ [**VisuAlgo**](https://visualgo.net/en)
 
 
 ## Popular users(except Cpp)
@@ -52,5 +57,6 @@
 + [**OJ.UZ**](https://oj.uz/problems/source/577)
 + [**WCIPEG**](https://wcipeg.com/main)
 + [**SPOJ IOI**](https://www.spoj.com/OI/problems/main/)
++ [**DMOJ**](https://dmoj.ca/problems/)
 + [**Recommended Reading for IOI**](https://ioinformatics.org/page/recommended-reading/11)
 + [**IOI Training Path to Gold**](https://www.commonlounge.com/discussion/c43e82881eb94fac9dca4140cf4b31d0)
