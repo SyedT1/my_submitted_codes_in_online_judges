@@ -46,3 +46,10 @@
   + [Watashi](https://codeforces.com/submissions/watashi)
 + **OCaml**
   + [Darooha](https://codeforces.com/profile/Darooha)
+
+## IOI OJ
++ [**OJ.UZ**](https://oj.uz/problems/source/577)
++ [**WCIPEG**](https://wcipeg.com/main)
++ [**SPOJ IOI**](https://www.spoj.com/OI/problems/main/)
++ [**Recommended Reading for IOI**](https://ioinformatics.org/page/recommended-reading/11)
++ [**IOI Training Path to Gold**](https://www.commonlounge.com/discussion/c43e82881eb94fac9dca4140cf4b31d0)
