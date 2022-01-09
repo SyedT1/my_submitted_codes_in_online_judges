@@ -11,6 +11,8 @@
 + **[Introduction to Algorithms and DS in C++ - Udemy](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/)**
 + **[Saad Mustafa Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=123190759)**  
 + **[Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)**
++ **[Teamscode Resources](https://www.teamscode.org/resources)**
++ **[USACO Guide](https://usaco.guide/)**
 
 **BOLD** Marked are the courses.
 
