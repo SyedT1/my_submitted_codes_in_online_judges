@@ -17,6 +17,12 @@
 + [USACO](https://usaco.guide/gold/intro-dp?lang=cpp)
 + [A2oJ Problemset](https://a2oj.com/Category33.html)
 + [AtCoder DP 26 Problems](https://atcoder.jp/contests/dp/tasks)
++ [Must Do DP Problems](https://leetcode.com/discuss/study-guide/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
++ [Chuka all DP problems Blog](https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html)
+  + [LeetCode Link](https://leetcode.com/discuss/study-guide/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.)
++ [DP on Strings](https://leetcode.com/discuss/study-guide/651719/How-to-solve-DP-String-Template-and-4-Steps-to-be-followed.)
+
+
 
 ## Youtube Playlist and Videos
 + [CoderByte](https://www.youtube.com/watch?v=oBt53YbR9Kk)
