@@ -46,6 +46,10 @@
 + [**Sorting.at**](https://sorting.at/)
 + [**VisuAlgo**](https://visualgo.net/en)
 
+## Study Codes(Readable)
++ [Clean And Neat Coders Pt 1](https://codeforces.com/blog/entry/56406)
++ [Clean And Neat Codes Pt 2](https://codeforces.com/blog/entry/77865)
+
 
 ## Popular users(except Cpp)
 + **Rust**
