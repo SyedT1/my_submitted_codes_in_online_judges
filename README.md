@@ -34,6 +34,8 @@
 ## Blogs and Resources
 + [All Topics Compiled Blog - CF](https://codeforces.com/blog/entry/91363)
 + [Awesome Resources](https://codeforces.com/blog/entry/23054)
++ [Wiki.Algo](https://wiki.algo.is/)'
++ [CpAlgo](https://cp-algorithms.com/)
 
 ## Topic based Blogs
 + [Counting Inversions](https://codeforces.com/blog/entry/92130)
