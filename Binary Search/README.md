@@ -20,5 +20,5 @@
 + [Codeforces Tutorial](https://codeforces.com/blog/entry/45578)
 
 ## Contests in Binary Search
-+ [**SORTING AND SEARCHING** _1_](https://vjudge.net/contest/476666)
-+ [**SORTING AND SEARCHING** _2_](https://vjudge.net/contest/476672)
++ [**SORTING AND SEARCHING**<sub>1</sub>](https://vjudge.net/contest/476666)
++ [**SORTING AND SEARCHING**<sub>2</sub>](https://vjudge.net/contest/476672)
