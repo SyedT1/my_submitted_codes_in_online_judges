@@ -8,12 +8,12 @@
 + [A Binary Search Implementation](https://codeforces.com/blog/entry/9901)
 + [Binary Search-Find Upper Bound and Lower Bound](https://medium.com/swlh/binary-search-find-upper-and-lower-bound-3f07867d81fb)
 + [Binary Search and other Halving Methods](https://codeforces.com/blog/entry/96699)
-+ [Sorting and Searching Binary Search - CSES.fi](https://cses.fi/problemset/)
 ## Problemset For Binary Search
 + [LeetCode Binary Search-ProblemSet](https://leetcode.com/tag/binary-search/)
 + [SPOJ Problemset](https://www.spoj.com/problems/tag/binary-search)
 + [Toph Problemset](https://toph.co/problems/binary-search)
 + [A2oj Problemset - 350 Problems](https://earthshakira.github.io/a2oj-clientside/server/Category40.html)
++ [Sorting and Searching Binary Search - CSES.fi](https://cses.fi/problemset/)
 
 
 ## Parallel Binary Search
