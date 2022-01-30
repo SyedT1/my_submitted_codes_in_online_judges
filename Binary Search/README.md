@@ -7,16 +7,18 @@
 + [HackerEarth Binary Search Tutorial and Problems](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/)
 + [A Binary Search Implementation](https://codeforces.com/blog/entry/9901)
 + [Binary Search-Find Upper Bound and Lower Bound](https://medium.com/swlh/binary-search-find-upper-and-lower-bound-3f07867d81fb)
-
++ [Binary Search and other Halving Methods](https://codeforces.com/blog/entry/96699)
++ [Sorting and Searching Binary Search - CSES.fi](https://cses.fi/problemset/)
 ## Problemset For Binary Search
 + [LeetCode Binary Search-ProblemSet](https://leetcode.com/tag/binary-search/)
 + [SPOJ Problemset](https://www.spoj.com/problems/tag/binary-search)
 + [Toph Problemset](https://toph.co/problems/binary-search)
 + [A2oj Problemset - 350 Problems](https://earthshakira.github.io/a2oj-clientside/server/Category40.html)
 
-## Individual Problems
-+ [Multiplication Table (D)](https://codeforces.com/contest/448/problem/D)
-+ [Preparing for the contest](https://codeforces.com/contest/378/problem/D)
 
 ## Parallel Binary Search
 + [Codeforces Tutorial](https://codeforces.com/blog/entry/45578)
+
+## Contests in Binary Search
++ [**SORTING AND SEARCHING** _1_](https://vjudge.net/contest/476666)
++ [**SORTING AND SEARCHING** _2_](https://vjudge.net/contest/476672)
